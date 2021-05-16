@@ -1,0 +1,140 @@
+com/nixsolutions/usik/Application.java
+ com.nixsolutions.usik.Application
+com/nixsolutions/usik/constants/LoggerConstants.java
+ com.nixsolutions.usik.constants.LoggerConstants
+com/nixsolutions/usik/model/entities/Product.java
+ com.nixsolutions.usik.model.entities.Product
+com/nixsolutions/usik/constants/RoleConstants.java
+ com.nixsolutions.usik.constants.RoleConstants
+com/nixsolutions/usik/controller/ReviewProductController.java
+ com.nixsolutions.usik.controller.ReviewProductController
+com/nixsolutions/usik/model/service/RoleService.java
+ com.nixsolutions.usik.model.service.RoleService
+com/nixsolutions/usik/model/repository/ClientRepository.java
+ com.nixsolutions.usik.model.repository.ClientRepository
+com/nixsolutions/usik/validators/PurchaseValidator.java
+ com.nixsolutions.usik.validators.PurchaseValidator
+com/nixsolutions/usik/controller/EntityControllerWithName.java
+ com.nixsolutions.usik.controller.EntityControllerWithName
+com/nixsolutions/usik/validators/EntityValidatorWithName.java
+ com.nixsolutions.usik.validators.EntityValidatorWithName
+com/nixsolutions/usik/controller/PurchaseController.java
+ com.nixsolutions.usik.controller.PurchaseController
+com/nixsolutions/usik/controller/RoleController.java
+ com.nixsolutions.usik.controller.RoleController
+com/nixsolutions/usik/model/repository/PurchaseRepository.java
+ com.nixsolutions.usik.model.repository.PurchaseRepository
+com/nixsolutions/usik/constants/EntityConstants.java
+ com.nixsolutions.usik.constants.EntityConstants
+com/nixsolutions/usik/model/entities/ProductType.java
+ com.nixsolutions.usik.model.entities.ProductType
+com/nixsolutions/usik/validators/ReviewProductValidator.java
+ com.nixsolutions.usik.validators.ReviewProductValidator
+com/nixsolutions/usik/service/GoogleDriveService.java
+ com.nixsolutions.usik.service.GoogleDriveService
+com/nixsolutions/usik/model/entities/Purchase.java
+ com.nixsolutions.usik.model.entities.Purchase
+com/nixsolutions/usik/model/service/ReviewProductService.java
+ com.nixsolutions.usik.model.service.ReviewProductService
+com/nixsolutions/usik/validators/EntityValidator.java
+ com.nixsolutions.usik.validators.EntityValidator
+com/nixsolutions/usik/model/service/StatusService.java
+ com.nixsolutions.usik.model.service.StatusService
+com/nixsolutions/usik/model/entities/ReviewProduct.java
+ com.nixsolutions.usik.model.entities.ReviewProduct
+com/nixsolutions/usik/validators/ShopValidator.java
+ com.nixsolutions.usik.validators.ShopValidator
+com/nixsolutions/usik/model/service/IServiceWithName.java
+ com.nixsolutions.usik.model.service.IServiceWithName
+com/nixsolutions/usik/controller/PhotoController.java
+ com.nixsolutions.usik.controller.PhotoController
+com/nixsolutions/usik/model/service/PhotoService.java
+ com.nixsolutions.usik.model.service.PhotoService
+com/nixsolutions/usik/model/entities/Role.java
+ com.nixsolutions.usik.model.entities.Role
+com/nixsolutions/usik/Main.java
+ com.nixsolutions.usik.Main
+com/nixsolutions/usik/validators/StatusValidator.java
+ com.nixsolutions.usik.validators.StatusValidator
+com/nixsolutions/usik/controller/ProductTypeController.java
+ com.nixsolutions.usik.controller.ProductTypeController
+com/nixsolutions/usik/exeptions/GoogleServiceException.java
+ com.nixsolutions.usik.exeptions.GoogleServiceException
+com/nixsolutions/usik/controller/EntityController.java
+ com.nixsolutions.usik.controller.EntityController
+com/nixsolutions/usik/model/repository/RoleRepository.java
+ com.nixsolutions.usik.model.repository.RoleRepository
+com/nixsolutions/usik/model/repository/ReviewProductRepository.java
+ com.nixsolutions.usik.model.repository.ReviewProductRepository
+com/nixsolutions/usik/model/service/PurchaseService.java
+ com.nixsolutions.usik.model.service.PurchaseService
+com/nixsolutions/usik/validators/RoleValidator.java
+ com.nixsolutions.usik.validators.RoleValidator
+com/nixsolutions/usik/model/service/ShopService.java
+ com.nixsolutions.usik.model.service.ShopService
+com/nixsolutions/usik/controller/ProductController.java
+ com.nixsolutions.usik.controller.ProductController
+com/nixsolutions/usik/validators/ClientValidator.java
+ com.nixsolutions.usik.validators.ClientValidator
+com/nixsolutions/usik/constants/FieldConstants.java
+ com.nixsolutions.usik.constants.FieldConstants
+com/nixsolutions/usik/model/repository/ShopRepository.java
+ com.nixsolutions.usik.model.repository.ShopRepository
+com/nixsolutions/usik/model/entities/Status.java
+ com.nixsolutions.usik.model.entities.Status
+com/nixsolutions/usik/model/entities/IEntity.java
+ com.nixsolutions.usik.model.entities.IEntity
+com/nixsolutions/usik/constants/GoogleDriveFolderConstants.java
+ com.nixsolutions.usik.constants.GoogleDriveFolderConstants
+com/nixsolutions/usik/utils/ControllerUtils.java
+ com.nixsolutions.usik.utils.ControllerUtils
+com/nixsolutions/usik/utils/GoogleDriveUtils.java
+ com.nixsolutions.usik.utils.GoogleDriveUtils
+com/nixsolutions/usik/model/repository/ProductTypeRepository.java
+ com.nixsolutions.usik.model.repository.ProductTypeRepository
+com/nixsolutions/usik/model/service/ClientService.java
+ com.nixsolutions.usik.model.service.ClientService
+com/nixsolutions/usik/model/entities/Client.java
+ com.nixsolutions.usik.model.entities.Client
+com/nixsolutions/usik/model/entities/Shop.java
+ com.nixsolutions.usik.model.entities.Shop
+com/nixsolutions/usik/config/JpaConfig.java
+ com.nixsolutions.usik.config.JpaConfig
+com/nixsolutions/usik/controller/StatusController.java
+ com.nixsolutions.usik.controller.StatusController
+com/nixsolutions/usik/validators/PhotoValidator.java
+ com.nixsolutions.usik.validators.PhotoValidator
+com/nixsolutions/usik/model/entities/Photo.java
+ com.nixsolutions.usik.model.entities.Photo
+com/nixsolutions/usik/validators/ProductValidator.java
+ com.nixsolutions.usik.validators.ProductValidator
+com/nixsolutions/usik/model/repository/PhotoRepository.java
+ com.nixsolutions.usik.model.repository.PhotoRepository
+com/nixsolutions/usik/model/service/ProductTypeService.java
+ com.nixsolutions.usik.model.service.ProductTypeService
+com/nixsolutions/usik/service/ClientDetailsService.java
+ com.nixsolutions.usik.service.ClientDetailsService
+com/nixsolutions/usik/model/repository/IRepository.java
+ com.nixsolutions.usik.model.repository.IRepository
+com/nixsolutions/usik/constants/UrlConstants.java
+ com.nixsolutions.usik.constants.UrlConstants
+com/nixsolutions/usik/model/service/ProductService.java
+ com.nixsolutions.usik.model.service.ProductService
+com/nixsolutions/usik/controller/ShopController.java
+ com.nixsolutions.usik.controller.ShopController
+com/nixsolutions/usik/validators/ProductTypeValidator.java
+ com.nixsolutions.usik.validators.ProductTypeValidator
+com/nixsolutions/usik/model/service/IService.java
+ com.nixsolutions.usik.model.service.IService
+com/nixsolutions/usik/exeptions/ResourceNotFoundException.java
+ com.nixsolutions.usik.exeptions.ResourceNotFoundException
+com/nixsolutions/usik/model/repository/StatusRepository.java
+ com.nixsolutions.usik.model.repository.StatusRepository
+com/nixsolutions/usik/config/SecurityConfig.java
+ com.nixsolutions.usik.config.SecurityConfig
+com/nixsolutions/usik/model/repository/ProductRepository.java
+ com.nixsolutions.usik.model.repository.ProductRepository
+com/nixsolutions/usik/controller/ClientController.java
+ com.nixsolutions.usik.controller.ClientController
+com/nixsolutions/usik/model/repository/IRepositoryWithName.java
+ com.nixsolutions.usik.model.repository.IRepositoryWithName
